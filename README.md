@@ -10,6 +10,8 @@ Tüm spektrogram verileri proje dosyları arasındaki Processed_Data klasöründ
 
 [Processed_Data](https://drive.google.com/drive/folders/1YxtMix5-pGszsR39pq_Zq7iU73uZStFa?usp=sharing)
 
+Derin öğrenme modelinde kullanmak üzere veri dosyalarının adları kategorileriyle eşleştirdim ve bu listeleri tagged_data.csv adlı csv dosyasına iki sütunlu olarak kaydettim. Böylece proje arkadaşlarım bu etiketlenmiş veriye kolayca kendi bilgisayarlarından erişebilecektir.
+
 
 Bu Veri seti [Urban Sound](https://urbansounddataset.weebly.com/urbansound8k.html) üzerinden alınmıştır ve linkte kaynak belirtilmiştir. 
 
