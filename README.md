@@ -6,12 +6,14 @@ Proje için ilk olarak ön işleme notebook'u ile dataseti sınıflandırdım. B
 
 Tüm spektrogram verileri proje dosyları arasındaki Processed_Data klasöründe links.md dosyasında ve burada aşağıda belirttiğim Google Drive klasörüne yüklendi. 
 
-### Link:
+### Spektrogram Linki:
 
 [Processed_Data](https://drive.google.com/drive/folders/1YxtMix5-pGszsR39pq_Zq7iU73uZStFa?usp=sharing)
 
-Derin öğrenme modelinde kullanmak üzere veri dosyalarının adları kategorileriyle eşleştirdim ve bu listeleri tagged_data.csv adlı csv dosyasına iki sütunlu olarak kaydettim. Böylece proje arkadaşlarım bu etiketlenmiş veriye kolayca kendi bilgisayarlarından erişebilecektir.
 
+
+Derin öğrenme modelinde kullanmak üzere veri dosyalarını openCV ile işledim ve numpy arraylere dönüştürdüm. Bu arrayleri ise drive'ımda image_arrays adlı klasörün altına txt dosyası olarak kaydettim ve ardından labels.txt adlı dosya ile labelları da kaydettim. Tüm gerekli dosyalara bu klasör altından ulaşılabilir:
+[Processed_Data_New](https://drive.google.com/drive/folders/1jbrm0Z6jdl6NXhUOEwZ9KQ8gK_DC9jTy?usp=sharing)
 
 Bu Veri seti [Urban Sound](https://urbansounddataset.weebly.com/urbansound8k.html) üzerinden alınmıştır ve linkte kaynak belirtilmiştir. 
 
