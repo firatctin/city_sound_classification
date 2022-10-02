@@ -1,2 +1,4 @@
 *.png
 *.wav
+image_arrays/
+image_arrays/*
