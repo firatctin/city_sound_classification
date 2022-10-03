@@ -13,7 +13,10 @@ Tüm spektrogram verileri proje dosyları arasındaki Processed_Data klasöründ
 
 
 Derin öğrenme modelinde kullanmak üzere veri dosyalarını openCV ile işledim ve numpy arraylere dönüştürdüm. Bu arrayleri ise drive'ımda image_arrays adlı klasörün altına txt dosyası olarak kaydettim ve ardından labels.txt adlı dosya ile labelları da kaydettim. Tüm gerekli dosyalara bu klasör altından ulaşılabilir:
-[Processed_Data_New](https://drive.google.com/drive/folders/1jbrm0Z6jdl6NXhUOEwZ9KQ8gK_DC9jTy?usp=sharing)
+[image_arrays] (https://drive.google.com/drive/folders/1ufpKinzW_au2sp76naLs_NpVRczKFMnN?usp=sharing)
+
+Projenin bir kısmında spektrogram boyutlarının ve bunları arraylere çevirinceki boyutların çok fazla olmasından kaynaklı spektrogramları çok daha küçük kopyaları ile değiştirdim.
+
 
 Bu Veri seti [Urban Sound](https://urbansounddataset.weebly.com/urbansound8k.html) üzerinden alınmıştır ve linkte kaynak belirtilmiştir. 
 

@@ -5427,16 +5427,6 @@ engine_idling
 engine_idling
 engine_idling
 engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
-engine_idling
 gun_shot
 gun_shot
 gun_shot
