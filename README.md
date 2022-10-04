@@ -17,7 +17,22 @@ Derin öğrenme modelinde kullanmak üzere veri dosyalarını openCV ile işledi
 
 Projenin bir kısmında spektrogram boyutlarının ve bunları arraylere çevirinceki boyutların çok fazla olmasından kaynaklı spektrogramları çok daha küçük kopyaları ile değiştirdim.
 
+Tüm proje 4.10.2022 tarihinde sonlandı. Modelin son istatistikleri:
+#### Epoch vs Loss:
+![Loss](loss.PNG)
+#### Epoch vs Accuracy:
+![Accuracy](accuracy.png)
+#### Test Results:
+    Loss: 0.672789990901947
+    Accuracy:0.8501144051551819
+
 
 Bu Veri seti [Urban Sound](https://urbansounddataset.weebly.com/urbansound8k.html) üzerinden alınmıştır ve linkte kaynak belirtilmiştir. 
 
 This dataset has been gathered from [Urban Sound](https://urbansounddataset.weebly.com/urbansound8k.html) and we mentioned the source link. All copyrights claimed by Urban Sound.
+
+
+# Fırat Çetin
+[LinkedIn](https://www.linkedin.com/in/f%C4%B1ratcetin1/)
+[Instagram Blog](https://www.instagram.com/bilgisayargibi/?hl=tr)
+[GitHUB](https://github.com/firatctin)
