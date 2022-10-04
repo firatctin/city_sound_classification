@@ -1,4 +1,5 @@
-*.png
-*.wav
+
+processed_data/
+processed_data/*
 image_arrays/
 image_arrays/*
