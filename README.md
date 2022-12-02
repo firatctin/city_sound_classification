@@ -1,4 +1,4 @@
-# Global AI Hub Koç Holding Derin Öğrenme Bootcamp Proje Çalışması 37. Grup Pioneers
+# Global AI Hub Koç Holding Derin Öğrenme Bootcamp Proje Çalışması
 
 Bu proje esnasında amacımız bize sunulan dataset üzerinde eğitilip denenerek oluşturulmuş şehir seslerini tanıyabilen bir derin öğrenme modeli oluşturmak.
 
